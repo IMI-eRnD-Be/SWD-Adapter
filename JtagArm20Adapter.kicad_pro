@@ -579,7 +579,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "ManufacturingFiles/",
+      "plot": "ManufacturingFiles/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
